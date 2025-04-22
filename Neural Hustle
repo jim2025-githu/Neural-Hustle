@@ -1,0 +1,83 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Neural Hustle</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #0e0e0e;
+      color: #ffffff;
+    }
+    header {
+      background: #121212;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 2px solid #00ffcc;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+      color: #00ffcc;
+    }
+    .quote {
+      margin-top: 10px;
+      font-style: italic;
+      font-size: 1.2em;
+      color: #dddddd;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #00ffcc;
+      border-bottom: 1px solid #444;
+      padding-bottom: 10px;
+    }
+    .section p {
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Neural Hustle</h1>
+    <div class="quote">"Automate. Grow. Earn. No Face Needed."</div>
+  </header>
+  <div class="section">
+    <h2>Welcome</h2>
+    <p>
+      Neural Hustle is a faceless personal brand system that runs on AI, automation, and smart content repurposing.
+      It's designed to help you make money while you sleep — no talking, no face, just systems.
+    </p>
+  </div>
+  <div class="section">
+    <h2>Core Components</h2>
+    <p>
+      - Automated Content Creation <br />
+      - Repurpose.io + Zapier workflows <br />
+      - Monetization funnels <br />
+      - AI-written scripts for videos <br />
+      - Faceless branding and visual assets
+    </p>
+  </div>
+  <div class="section">
+    <h2>Next Steps</h2>
+    <p>
+      Start duplicating this strategy into your own workspace, build your automation systems, and let the Neural Hustle begin.
+    </p>
+  </div>
+  <footer>
+    &copy; 2025 Neural Hustle. All rights reserved.
+  </footer>
+</body>
+</html>
